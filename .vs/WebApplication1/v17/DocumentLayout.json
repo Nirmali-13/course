@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UT01470\\Desktop\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF8DC34-FFB7-4ED1-909C-CD2564120207}|WebApplication1\\WebApplication1.csproj|c:\\users\\ut01470\\desktop\\webapplication1\\webapplication1\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF8DC34-FFB7-4ED1-909C-CD2564120207}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF8DC34-FFB7-4ED1-909C-CD2564120207}|WebApplication1\\WebApplication1.csproj|c:\\users\\ut01470\\desktop\\webapplication1\\webapplication1\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF8DC34-FFB7-4ED1-909C-CD2564120207}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF8DC34-FFB7-4ED1-909C-CD2564120207}|WebApplication1\\WebApplication1.csproj|c:\\users\\ut01470\\desktop\\webapplication1\\webapplication1\\irepository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF8DC34-FFB7-4ED1-909C-CD2564120207}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\irepository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF8DC34-FFB7-4ED1-909C-CD2564120207}|WebApplication1\\WebApplication1.csproj|c:\\users\\ut01470\\desktop\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6FF8DC34-FFB7-4ED1-909C-CD2564120207}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF8DC34-FFB7-4ED1-909C-CD2564120207}|WebApplication1\\WebApplication1.csproj|c:\\users\\ut01470\\desktop\\webapplication1\\webapplication1\\entity\\enroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF8DC34-FFB7-4ED1-909C-CD2564120207}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\entity\\enroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF8DC34-FFB7-4ED1-909C-CD2564120207}|WebApplication1\\WebApplication1.csproj|c:\\users\\ut01470\\desktop\\webapplication1\\webapplication1\\entity\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF8DC34-FFB7-4ED1-909C-CD2564120207}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\entity\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF8DC34-FFB7-4ED1-909C-CD2564120207}|WebApplication1\\WebApplication1.csproj|c:\\users\\ut01470\\desktop\\webapplication1\\webapplication1\\database\\databasetables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF8DC34-FFB7-4ED1-909C-CD2564120207}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\database\\databasetables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF8DC34-FFB7-4ED1-909C-CD2564120207}|WebApplication1\\WebApplication1.csproj|c:\\users\\ut01470\\desktop\\webapplication1\\webapplication1\\appdata.db||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6FF8DC34-FFB7-4ED1-909C-CD2564120207}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appdata.db||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IstudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\UT01470\\Desktop\\WebApplication1\\WebApplication1\\iRepository\\IstudentRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\iRepository\\IstudentRepository.cs",
+              "ToolTip": "C:\\Users\\UT01470\\Desktop\\WebApplication1\\WebApplication1\\iRepository\\IstudentRepository.cs",
+              "RelativeToolTip": "WebApplication1\\iRepository\\IstudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T08:03:32.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\UT01470\\Desktop\\WebApplication1\\WebApplication1\\Repository\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Repository\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\UT01470\\Desktop\\WebApplication1\\WebApplication1\\Repository\\StudentRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Repository\\StudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T06:54:50.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\UT01470\\Desktop\\WebApplication1\\WebApplication1\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\UT01470\\Desktop\\WebApplication1\\WebApplication1\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T06:44:00.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Enroll.cs",
+              "DocumentMoniker": "C:\\Users\\UT01470\\Desktop\\WebApplication1\\WebApplication1\\Entity\\Enroll.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Entity\\Enroll.cs",
+              "ToolTip": "C:\\Users\\UT01470\\Desktop\\WebApplication1\\WebApplication1\\Entity\\Enroll.cs",
+              "RelativeToolTip": "WebApplication1\\Entity\\Enroll.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T06:45:04.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Students.cs",
+              "DocumentMoniker": "C:\\Users\\UT01470\\Desktop\\WebApplication1\\WebApplication1\\Entity\\Students.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Entity\\Students.cs",
+              "ToolTip": "C:\\Users\\UT01470\\Desktop\\WebApplication1\\WebApplication1\\Entity\\Students.cs",
+              "RelativeToolTip": "WebApplication1\\Entity\\Students.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T06:31:44.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DatabaseTables.cs",
+              "DocumentMoniker": "C:\\Users\\UT01470\\Desktop\\WebApplication1\\WebApplication1\\Database\\DatabaseTables.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Database\\DatabaseTables.cs",
+              "ToolTip": "C:\\Users\\UT01470\\Desktop\\WebApplication1\\WebApplication1\\Database\\DatabaseTables.cs",
+              "RelativeToolTip": "WebApplication1\\Database\\DatabaseTables.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T05:38:29.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\UT01470\\Desktop\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\UT01470\\Desktop\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-07T05:27:17.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appData.db",
+              "DocumentMoniker": "C:\\Users\\UT01470\\Desktop\\WebApplication1\\WebApplication1\\appData.db",
+              "RelativeDocumentMoniker": "WebApplication1\\appData.db",
+              "ToolTip": "C:\\Users\\UT01470\\Desktop\\WebApplication1\\WebApplication1\\appData.db",
+              "RelativeToolTip": "WebApplication1\\appData.db",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGGSURBVDhPY2SAgsry0vsMDP8VoFwsgPHBn38Mgd3d3RegAkDl//9DWSADSv7/\u002BvULJwbJNzXUvi8tLTWAagEDJihNFEhITBbg5ebYj2wI0QYICAgwTJ82heH79\u002B8CLEz/90OFEQDdC3uOnPm/69ApFDEYBqmFasN0wdXbDxh2HDzJ8O79B4a3794zrN9\u002BgOHc5RtQWUyAYQALExPDt2/fGUz0NBlMDbQYvn3/xsDCgtunGDJ//v5l\u002BP37F8Pff38Z/gHZf37/Zvjz5y9UFhNgGPDz508GUOI4cPQUw74jJxgYgZxTZ88DXfIDogANYBhgpKvBEObnxsDHw8XwF2jzsxdPGR49eczQ0TeR4cbN21BVCIDTc4FeLgyezjYMHz98ZGirKWf48O4dAwcHG1QWAXCHDhB8/QoMQKCK3KJSBlZWZpSUCwN4DVBXVWaoKMpnsLG0YOjtaGNQVMDMKngNAAFuLi6G8NBgKA8TEDSAEEDKzsXA7MyIJzsjg/8P2jt7FRkYGBgAmdPDqvBXzR4AAAAASUVORK5CYII=",
+              "WhenOpened": "2024-10-07T05:24:41.071Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
